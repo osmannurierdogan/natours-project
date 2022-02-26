@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../../../../skeleton-of-project/assets/scss/util/functions.scss"
+    ],
+    "names": [],
+    "file": "functions.css"
+}
